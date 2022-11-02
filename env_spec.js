@@ -1,0 +1,1 @@
+export const CORE_WS = 'https://api-test.ru';
